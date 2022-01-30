@@ -1,0 +1,8 @@
+.up-img{
+    margin-top: -50vw;
+    z-index: -1;
+}
+.downcard{
+    margin-top: 15vw;
+    z-index: 1000;
+}
