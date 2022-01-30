@@ -1,0 +1,15 @@
+.bg-color-size{
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    background-color: rgb(48, 48, 194);
+}
+::ng-deep .color-class{
+    color: white;
+    font-weight: bold;
+}
+
+.position{
+    margin-top: 5px;
+    margin-bottom: -5px;
+    margin-left: 2vw;
+}
